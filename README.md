@@ -1,8 +1,19 @@
 # 🤿 ImersaoAlura  
 *****  
+
   
+  
+ # 🎯 Site:  
+   
+   #### Acesse [AluraFlix](https://aluraflix-lac.vercel.app/) - Minha lista de filmes desejados.  
+     
+     
+     https://www.loom.com/share/6cc48f7d2e6c4c70ba813a4cadd102b1
+     
+     
     
-    
+***  
+
 
 ## 1️⃣   Conteúdo detalhado desta aula  
 
